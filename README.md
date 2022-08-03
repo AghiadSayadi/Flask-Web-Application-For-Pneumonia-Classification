@@ -1,1 +1,0 @@
-# Pneumonia Detection Using X-ray Images With CNN
